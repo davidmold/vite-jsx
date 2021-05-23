@@ -1,4 +1,4 @@
-#vite jsx
+# vite jsx
 
 A quick demo of how to use Vite to easily add react-free JSX to 
 JavaScript projects.
